@@ -1,2 +1,2 @@
-# Sachi-
+.gitignore# Sachi-
 150
